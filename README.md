@@ -10,7 +10,7 @@
 
 ### Languages and Tools:
 <p align="left">
-  <img alt="Go, C++, Qt, Python, C#, Docker, PostgreSQL, SQLite, Git, GitHub, Linux" src="https://skillicons.dev/icons?i=go,cpp,qt,python,cs,docker,postgres,sqlite,git,github,linux&perline=8" />
+  <img alt="Go, C++, Qt, Python, C#, Docker, PostgreSQL, MySQL, SQLite, Redis, Kafka, Git, GitHub, Linux" src="https://skillicons.dev/icons?i=go,cpp,qt,python,cs,docker,postgres,mysql,sqlite,redis,kafka,git,github,linux&perline=8" />
 </p>
 
 ### Connect with me:
